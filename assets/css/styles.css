@@ -1,0 +1,4 @@
+.chart-canvas {
+    max-width: 100%;
+    height: auto !important; /* Altura automática para mantener la proporción */
+}
